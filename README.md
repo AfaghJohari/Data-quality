@@ -1,8 +1,4 @@
 # MyProject
-- Your name
+- Afagh Johari
 
-- Project title
-
-- Links to website & social media
-
-- Contact details
+- Compare Schedule time for New York Bus and Subway
